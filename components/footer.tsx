@@ -12,7 +12,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="space-y-4">
-            <Image src="/logo.png" alt="MAKSAB Logo" width={120} height={40} className="h-10 w-auto" />
+                          <Image src="/Logo.png" alt="MAKSAB Logo" width={120} height={40} className="h-10 w-auto" />
             <p className="text-gray-300 text-sm">
               Connecting you to financial excellence through comprehensive advisory services and lasting impact.
             </p>

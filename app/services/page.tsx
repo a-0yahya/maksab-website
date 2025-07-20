@@ -432,7 +432,7 @@ export default function ServicesPage() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
               <Image
-                src="/logo.png"
+                src="/Logo.png"
                 alt="MAKSAB Logo"
                 width={120}
                 height={40}

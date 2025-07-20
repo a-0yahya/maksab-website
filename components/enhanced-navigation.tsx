@@ -78,7 +78,7 @@ export function EnhancedNavigation({ currentPath }: NavigationProps) {
             >
               <Link href="/">
                 <Image 
-                  src="/logo.png" 
+                  src="/Logo.png" 
                   alt="MAKSAB Logo" 
                   width={240} 
                   height={80} 

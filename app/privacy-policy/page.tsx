@@ -13,7 +13,7 @@ export default function PrivacyPolicyPage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Link href="/">
-                <Image src="/logo.png" alt="MAKSAB Logo" width={120} height={40} className="h-10 w-auto" />
+                <Image src="/Logo.png" alt="MAKSAB Logo" width={120} height={40} className="h-10 w-auto" />
               </Link>
             </div>
             <div className="hidden md:block">
